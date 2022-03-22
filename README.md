@@ -17,4 +17,11 @@
     ]
     ```
 2. Create Strapi API
+    ```shell
+    cd apps/
+    yarn create strapi-app@beta strapi-ts-starter (--ts)
+    ```
 3. Create Next.js Web app
+    ```shell
+    yarn create next-app --ts
+    ```
